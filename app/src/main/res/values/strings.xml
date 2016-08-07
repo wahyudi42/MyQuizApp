@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">MyQuizApp</string>
+    <string name="welcome">Welcome to Math Quiz!</string>
+    <string name="submit_button">Submit</string>
+
+    <!-- string for question & answer -->
+    <!-- question 1 -->
+    <string name="question_one">1. Substract...</string>
+    <string name="equation_1">5 - 2 = ?</string>
+    <string name="quiz_prompt">Answer here...</string>
+    
+    <!-- question 2 -->
+    <string name="question_two">2. Fill in the missing number...</string>
+    <string name="equation_2">6 + ? = 9</string>
+    <string name="answer_2_a">0</string>
+    <string name="answer_2_b">2</string>
+    <string name="answer_2_c">3</string>
+    <string name="answer_2_d">4</string>
+    
+    <!-- question 3 -->
+    <string name="question_three">3. Which statement makes the equation false? </string>
+    <string name="equation_3">8 : 4 ? 5</string>
+    <string name="answer_3_a">equals (=)</string>
+    <string name="answer_3_b">greater than (&gt;)</string>
+    <string name="answer_3_c">less than (&lt;)</string>
+
+    <!-- question 4 -->
+    <string name="question_four">4. Multiply...</string>
+    <string name="equation_4">4 x -8 = ?</string>
+    <string name="answer_4_a">-32</string>
+    <string name="answer_4_b">32</string>
+    <string name="answer_4_c">24</string>
+    <string name="answer_4_d">-24</string>
+
+    <!-- question 5 -->
+    <string name="question_five">5. Solve for y  </string>
+    <string name="equation_5">-9 = -3y</string>
+    <string name="answer_5_a">y = 1</string>
+    <string name="answer_5_b">y = 2</string>
+    <string name="answer_5_c">y = 3</string>
+    <string name="answer_5_d">y = 0</string>
+
+</resources>
